@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlsaCutie
-- 👀 I’m interested in piano, reading history and play Switch games
+- 👀 I’m interested in piano, singing, reading history and playing Switch games
 - 🌱 I’m currently researching quantum sensing.
 - 💞️ I’m looking to collaborate on image processing and objective detection.
 - 📫 How to reach me: arlene_tan@connect.hku.hk
